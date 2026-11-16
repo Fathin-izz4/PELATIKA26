@@ -1,9 +1,9 @@
-body {
+body{
     background-color: ##de4700; /* Warna ungu*/
     font-family: Arial, sans-serif; /* Jenis huruf yang bersih da mudah dibaca */
     color: #0071bd; /* Warna teks utama(Biru agak tua) */
 }
-.Kartu-profil {
+.Kartu-profil{
    widht: 300px;
    margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
    padding: 20px;
