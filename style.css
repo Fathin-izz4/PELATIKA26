@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif; /* Jenis huruf yang bersih da mudah dibaca */
     color: #0071bd; /* Warna teks utama(Biru agak tua) */
 }
-.kartu-profil {
+.Kartu-profil {
    widht: 300px;
    margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
    padding: 20px;
@@ -12,7 +12,7 @@ body {
    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Efek bayangan*/
    text-align: center; /* Menengahkan semua teks di dalam kartu */
 }
-.kartu-profil img{
+.Kartu-profil img{
     widht: 150px;
     border-radius: 50% /* Trik untuk membuat gambar persegi menjadi lingkaran sempurna */
 }
