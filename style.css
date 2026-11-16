@@ -1,0 +1,18 @@
+body {
+    background-color: #6a276a; /* Warna ungu*/
+    font-family: Arial, sans-serif; /* Jenis huruf yang bersih da mudah dibaca */
+    color: #0071bd; /* Warna teks utama(Biru agak tua) */
+}
+.kartu-profil {
+   widht: 300px;
+   margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
+   padding: 20px;
+   background-color: black;
+   border-radius: 15px; /* Membuat sudut menjadi melengkung */
+   box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Efek bayangan*/
+   text-align: center; /* Menengahkan semua teks di dalam kartu */
+}
+.kartu-profil img{
+    widht: 150px;
+    border-radius: 15% /* Trik untuk membuat gambar persegi menjadi lingkaran sempurna */
+}
